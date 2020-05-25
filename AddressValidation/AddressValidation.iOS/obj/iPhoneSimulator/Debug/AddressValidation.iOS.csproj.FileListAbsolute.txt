@@ -1,0 +1,64 @@
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/AddressValidation.iOS.exe
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/AddressValidation.iOS.pdb
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/AddressValidation.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/AddressValidation.pdb
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/AddressValidation.iOS.csprojAssemblyReference.cache
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/AddressValidation.iOS.csproj.CoreCompileInputs.cache
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/AddressValidation.iOS.csproj.CopyComplete
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/AddressValidation.iOS.exe
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/obj/iPhoneSimulator/Debug/AddressValidation.iOS.pdb
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll

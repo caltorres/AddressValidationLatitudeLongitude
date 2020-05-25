@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{6E760368-D015-4BE0-85F1-CDE7F6A22292}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddressValidation.iOS/Main.cs">
+    <Files>
+      <File FileName="AddressValidation/MainPage.xaml" Line="13" Column="15" />
+      <File FileName="AddressValidation/MainPage.xaml.cs" Line="153" Column="16" />
+      <File FileName="../../.nuget/packages/xamarin.essentials/1.5.3.2/readme.txt" Line="1" Column="1" />
+      <File FileName="AddressValidation.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AddressValidation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9BBF013C-C000-47F5-AE21-A8E00998DE90" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AddressValidation.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+</Properties>

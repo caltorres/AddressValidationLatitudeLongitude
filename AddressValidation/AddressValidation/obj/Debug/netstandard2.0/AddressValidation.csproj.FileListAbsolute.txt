@@ -1,0 +1,14 @@
+/Users/geysit/Projects/AddressValidation/AddressValidation/bin/Debug/netstandard2.0/AddressValidation.deps.json
+/Users/geysit/Projects/AddressValidation/AddressValidation/bin/Debug/netstandard2.0/AddressValidation.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation/bin/Debug/netstandard2.0/ref/AddressValidation.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation/bin/Debug/netstandard2.0/AddressValidation.pdb
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/AddressValidation.csprojAssemblyReference.cache
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/AddressValidation.AssemblyInfoInputs.cache
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/AddressValidation.AssemblyInfo.cs
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/AddressValidation.csproj.CoreCompileInputs.cache
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/AddressValidation.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/ref/AddressValidation.dll
+/Users/geysit/Projects/AddressValidation/AddressValidation/obj/Debug/netstandard2.0/AddressValidation.pdb
