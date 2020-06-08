@@ -103,7 +103,7 @@ namespace AddressValidation
         {
             Geocoder geoCoder = new Geocoder();
 
-            IEnumerable<Position> approximateLocations = await geoCoder.GetPositionsForAddressAsync("1110 Calle Almaden, San Jose, California");
+            IEnumerable<Position> approximateLocations = await geoCoder.GetPositionsForAddressAsync(Address.Text);
             Position position = approximateLocations.FirstOrDefault();
 
             string coordinates = $"{position.Latitude}, {position.Longitude}";
