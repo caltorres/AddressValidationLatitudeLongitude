@@ -46,7 +46,7 @@ namespace AddressValidation
 
         private async void Button_Clicked(System.Object sender, System.EventArgs e)
         {
-            // Case of what happend?
+            // Setting request for USPS API
             XDocument requestDoc = new XDocument(
                 new XElement("AddressValidateRequest",
                 new XAttribute("USERID", "400INFIN1745"),
